@@ -3,4 +3,4 @@
 
 ## 🔵 logica-programacao 
 
-objetivo: reforçar o estudo das estruturas básicas de programação, como repetições e condicionais, utilizando JavaScript;
+objetivo: reforçar o estudo das estruturas básicas de programação, com exemplos simples, utilizando a linguagem JavaScript;
