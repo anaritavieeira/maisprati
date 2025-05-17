@@ -8,3 +8,5 @@ objetivo: reforçar o estudo da lógica e das estruturas básicas de programaç�
 ---
 
 ## 🟠 lista-de-exercicio-01
+
+necessário rodar NPM install para garantir que as dependências sejam carregadas;
