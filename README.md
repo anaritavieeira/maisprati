@@ -3,7 +3,7 @@
 
 ## 🔵 logica-programacao 
 
-objetivo: reforçar o estudo da lógica e das estruturas básicas de programação, com exemplos simples, utilizando a linguagem JavasScript;
+exemplos simples utilizando a linguagem javacript para reforçar a compreensão da lógica de programação e das estruturas básicas;
 
 ---
 
